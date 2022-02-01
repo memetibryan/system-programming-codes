@@ -1,0 +1,3 @@
+chmod +x instax.sh
+service tor start
+bash instax.sh
